@@ -8,7 +8,7 @@ function App() {
     <div className="container flex mx-auto p-5 flex-col md:flex-row items-center">
       <a href="#" className="font-medium text-gray-900 mb-4 md:mb-0">
         <span className="text-xl ml-3">
-          ShinCode
+          TkWorksDesigns
         </span>
       </a>
       <nav className='md:ml-auto text-base'>
@@ -33,15 +33,15 @@ function App() {
         <h1 className=' text-3xl sm:text-6xl text-gray-900 font-medium mb-4 '>
           Hi!
           <br />
-           I’m ShinCode
+           I’m TkWorksDesigns
            <br />
-           Web Developer
+           MobilApplication Developer
         </h1>
         <p className='mb-8 leading-relaxed'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem sed perspiciatis ipsa aliquid at eaque non cumque omnis fugit cupiditate!</p>
         <button className='text-white bg-green-500 py-2 px-6 border-0 rounded text-lg hover:bg-green-600 duration-300'>Contact</button>
       </div>
      <div className='md:w-1/2 lg:max-w-lg w-5/6 '>
-       <img src="public/img/icon2.jpg" alt="" />
+       <img src="/public/img/IMG_1350.JPG" alt="" />
      </div>
     </div>
    </section>
